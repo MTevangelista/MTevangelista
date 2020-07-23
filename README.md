@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="250" height="250" src="https://i.pinimg.com/originals/d4/c2/d9/d4c2d99c8563cc5d71c93919eeb62998.jpg">
+<img align="right" width="250" height="250" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
  
 # Welcome!
  
@@ -27,6 +27,8 @@ Lover of Technology and coding :heart:
 **MTevangelista/MTevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+https://i.pinimg.com/originals/d4/c2/d9/d4c2d99c8563cc5d71c93919eeb62998.jpg
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
