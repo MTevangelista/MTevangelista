@@ -4,11 +4,13 @@
  
 # Welcome!
  
-## I'm Matheus Evnagleista! Let me present a little about myself :)
+## I'm Matheus Evangelista! Let me present a little about myself :)
  
-Studying Software Engineering at Instituto Infnet :robot:
+Studying Software Engineering at Instituto Infnet :mortar_board:
 
-Lover of Technology and coding
+Always learning :man_technologist:
+
+Lover of Technology and coding :heart:
  
  
 ## About me 
