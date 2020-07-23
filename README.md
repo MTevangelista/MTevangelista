@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/d4/c2/d9/d4c2d99c8563cc5d71c93919eeb62998.jpg">
+<img align="right" width="250" height="250" src="https://i.pinimg.com/originals/d4/c2/d9/d4c2d99c8563cc5d71c93919eeb62998.jpg">
  
 # Welcome!
  
