@@ -30,7 +30,7 @@
 ### Abstract
 
 - :mortar_board: Studying Software Engineering at Instituto Infnet.
-- ⚡ Learning more about and studying: **Front-end and Back-end using Typescript**.
+- ⚡ Learning more about and studying: **Mobile App Development**.
 - 💙 Interests: tecnology, coding, soccer and games.
 
 ### Languages and Tools
