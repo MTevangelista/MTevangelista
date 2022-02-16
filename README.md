@@ -17,6 +17,9 @@
 <a href="https://github.com/MTevangelista/swiftui-taskmanager-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MTevangelista&repo=swiftui-taskmanager-app&theme=material-palenight" />
 </a>
+<a href="https://github.com/MTevangelista/uber-clone-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MTevangelista&repo=uber-clone-app&theme=material-palenight" />
+</a>
 
 ### Wakatime week stats
 
