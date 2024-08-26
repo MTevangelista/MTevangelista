@@ -27,7 +27,7 @@
 
 ### Abstract
 
-- :mortar_board: Studying Software Engineering at Instituto Infnet.
+- :mortar_board: Software Engineer.
 - ⚡ Learning more about and studying: **Mobile App Development**.
 - 💙 Interests: tecnology, coding, soccer and games.
 
