@@ -28,7 +28,6 @@
 ### Abstract
 
 - :mortar_board: Software Engineer.
-- ⚡ Learning more about and studying: **Mobile App Development**.
 - 💙 Interests: tecnology, coding, soccer and games.
 
 ### Languages and Tools 
